@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Estudio_Numerologico</string>
+    <string name="apellidoTextRe">Surnames</string>
+    <string name="buttonPri">Let´s Go</string>
+    <string name="infoPersonal">About</string>
+    <string name="nacimientoTextRe">Birthday</string>
+    <string name="nombreTextRe">Name</string>
+    <string name="tv_login">PERSONAL INFO</string>
+    <string name="estudianteUni">Student of the National University of San Agustin</string>
+    <string name="cabalaText">Cabala</string>
+    <string name="signuText">Numerical</string>
+    <string name="sucesoText">Event</string>
+    <string name="tonicaDiaText">Day´s Tonic</string>
+    <string name="tonicaText">Tonic</string>
+    <string name="urgenciaText">Urgency</string>
+    <string name="cabalaTi">CABAL OF THE YEAR</string>
+    <string name="signuTi">MEANING / NUMBERS</string>
+    <string name="sucesoTi">DAY EVENT</string>
+    <string name="tonicaDiaTi">DAY´S TONIC</string>
+    <string name="tonicaTi">" FUNDAMENTAL TONIC"</string>
+    <string name="urgenciaTi">INTERNAL URGENCY</string>
+
+    //Urgencia
+    <string name="urgencia1">This number makes the entrepreneur, original, willing.</string>
+    <string name="urgencia2">This number makes the person sociable, with imagination.</string>
+    <string name="urgencia3">This number makes the person creative, with art and beauty.</string>
+    <string name="urgencia4">This number makes the person firm, solid.</string>
+    <string name="urgencia5">This number makes the person reasoned, rigorously, prone to learning.</string>
+    <string name="urgencia6">This number makes the person affectionate, undecided.</string>
+    <string name="urgencia7">This number makes the person tending to fight.</string>
+    <string name="urgencia8">This number makes the person patient.</string>
+    <string name="urgencia9">This number makes the person generous, with great ideas, independent.</string>
+
+    //Tónica
+    <string name="tonica1">This number indicates that the person has to work with great will, with original ideas, to be an entrepreneur.</string>
+    <string name="tonica2">This number indicates that the person has to learn to associate with others, listen to contrary opinions without getting angry, develop the creative imagination.</string>
+    <string name="tonica3">This number indicates that the person has to work with art and beauty in everything he does, in dressing, in speaking.</string>
+    <string name="tonica4">This number indicates that the person has to lay the firm foundations in their projects and jobs.</string>
+    <string name="tonica5">This number indicates that the person has to see the pros and cons of everything that is proposed.</string>
+    <string name="tonica6">This number indicates that the person has to be decisive and care for what he does.</string>
+    <string name="tonica7">This number indicates that the person has to put a lot of effort into everything he does.</string>
+    <string name="tonica8">This number indicates that the person has to be very patient, know how to wait.</string>
+    <string name="tonica9">This number indicates that the person has to be generous and great, preferably work independently.</string>
+
+    //Suceso
+    <string name="suceso1">The one shows that on the day of your birth you were the priority of your loved ones</string>
+    <string name="suceso2">El dos demuestra que el día de tu nacimiento acontecio un suceso que cambio la vida de dos personas</string>
+    <string name="suceso3">The three shows that on the day of your birth there was the existential renewal of 3 people, yours to be born and that of your parents for their conversion</string>
+    <string name="suceso4">The four shows that on the day of your birth a radical change was observed since it is possible that you are the 4th member of your family</string>
+    <string name="suceso5">The five shows that on the day of your birth you did not cry until the 5th slap, you were so sure of your existence that you knew that crying was unnecessary</string>
+    <string name="suceso6">The six shows that the day of your birth was not until 6 minutes after birth that the doctors knew you were healthy, it is a record, most take hours</string>
+    <string name="suceso7">Seven shows that on the day of your birth your mother forgave everyone who had hurt her, knowing that she is now invincible</string>
+    <string name="suceso8">Eight demonstrates that on the day of your birth someone stubborn but strong and brave was born, you moved everyone around you</string>
+    <string name="suceso9">Nine shows that on the day of your birth someone was born, who will understand others at any cost.</string>
+
+    //Numérico
+    <string name="numerico1">Sign of creativity, independence, originality, sense of self and self-sufficiency. Individualistic and aggressive nature. Initiators of actions, pioneering spirit, courage, extraordinary will and determination.</string>
+    <string name="numerico2">Sign of empathy, cooperation, adaptability, consideration towards others, super sensitivity to the needs of others. Symbol of balance, union and receptivity.</string>
+    <string name="numerico3">Self-expressive in many aspects and with communicative capacity; It is the sign of artistic expression, sociability, sympathy, superficiality and wasteful spirit. Symbol of communication, interaction and neutrality.</string>
+    <string name="numerico4">Strong sense of order and values. It is the sign of practicality, loyalty, rigidity and repression. It is also a symbol of creation, of the fight against limits, of scientific mindset, attention to detail, capable of achieving important achievements and ingenuity for the organization. Fine administrative skills.</string>
+    <string name="numerico5">Sign of action and restlessness. It is the symbol of freedom, adaptability, the traveling and adventurous spirit, but also of inconsistency and abuse of the senses.</string>
+    <string name="numerico6">Sign of love, responsibility, understanding, but also of nosy and jealous people. It is a number associated with honesty and fidelity.</string>
+    <string name="numerico7">Sign of thought, spirituality, conscience, psychic analysis, wisdom "\ n" The number of intellect, idealism and repression.</string>
+    <string name="numerico8">Sign of power, executive ability, management, material power and a tendency to sacrifice but also to have no scruples. Political skills, expert in managing power and authority, work for causes and to achieve recognition, ability to decide and command.</string>
+    <string name="numerico9">Sign of artistic genius, humanitarian sense, tendency to romance and emotionally sentimental. Animatedly friendly and friendly, selfless, interested in doing their job willingly and well. Art and writting skills.</string>
+
+    //Cábala
+    <string name="cabala1">"\t" ARCANO 1: THE MAGICIAN "\n" THE MAN: «Sword. Will. Power »." \n "Transcendental Axiom" \n "Be in your works as you are in your thoughts" \n "</string>
+    <string name="cabala2">"\t" ARCANO 2: THE PRIESTHOOD "\n" Transcendental Axiom "\n" The wind and waves are always in favor of who knows how to navigate "\n"</string>
+    <string name="cabala3">"\t" ARCANO 3: THE EMPRESS "\n" Transcendental Axiom "\n" Weaving is your loom, fabric for your use and fabrics that you don\'t have to use "\n" Looking at the practical aspect of life we find that Number 3 is both the Material and Spiritual production "\n"</string>
+    <string name="cabala4">"\t" ARCANO 4: THE EMPEROR "\n" Transcendental Axiom "\n" Command. Progress. Success. Mercy "\n" Number 4 is the Tetrada, the planet that corresponds to it is Uranus, and it is clear that the Cancer Constellation is the fourth constellation. When it comes to color, Dark Red and Platinum is the metal "\n"</string>
+    <string name="cabala5">"\t" ARCANO 5: THE HIERARCH "\n" Transcendental Axiom "\n" From ears I had heard you, but now my eyes see you and my heart feels you "\n" Life has begun to flow from outside to inside , we are faced with the dilemma of Being or not Being, we need to define ourselves or Angels or Demons, or Eagles or Reptiles, face our own destiny "\n"</string>
+    <string name="cabala6">"\t" ARCANO 6: INDECISION: THE LOVE "\n" Transcendental Axiom "\n" Works give me Lord, more with them strength "\n" In Arcane No. 6 is the struggle between the Two Ternaries the Affirmation of the Inner Christ and the Supreme Denial of Satan "\n"</string>
+    <string name="cabala7">"\t" ARCANO 7: THE TRIUMPH "\n" Transcendent Axiom "\n" When science enters your heart and wisdom is sweet to your soul, ask and it will be given to you "\n"</string>
+    <string name="cabala8">"\t" ARCANO 8: THE JUSTICE "\n" The Arcanum No. 8: means Hard Proofs, it is Righteousness, Justice, Balance. You have to look for good at any cost, because the Medical Masters when it comes to a patient who is dying, they try to save him because that is the Law, they comply with doing good "\n"</string>
+    <string name="cabala9">"\t" ARCANO 9: EL EREMITA "\n" ELEMENT DE PREDICCIÓN "\n" Promises science to make discoveries, order to make them and caution to use them. Proprietary associations and infautas associations "\n" Belongs to Number 9 Emotion, Wisdom, Generosity, Genius "\n"</string>
+
+    //Tónica Día
+    <string name="tonica_dia1">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: work with great will, with original ideas, be an entrepreneur.</string>
+    <string name="tonica_dia2">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: learn to associate with others, listen to contrary opinions without getting angry, develop the creative imagination.</string>
+    <string name="tonica_dia3">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: work with art and beauty in everything he does, in dressing, in speaking.</string>
+    <string name="tonica_dia4">What indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: lay the firm foundations in their projects and work.</string>
+    <string name="tonica_dia5">Which indicates that in order to be more likely to succeed in what one sets out, the person on this day, would have to: see the pro and against everything that is proposed.</string>
+    <string name="tonica_dia6">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: be decisive and care for what he does.</string>
+    <string name="tonica_dia7">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: put a lot of effort into everything he does.</string>
+    <string name="tonica_dia8">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to: be very patient, know how to wait.</string>
+    <string name="tonica_dia9">Which indicates that to be more likely to succeed in what one sets out, the person on this day, would have to be: generous and great, preferably work independently.</string>
+</resources>

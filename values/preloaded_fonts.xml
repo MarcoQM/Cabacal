@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/advent_pro_thin</item>
+        <item>@font/belleza</item>
+        <item>@font/bigelow_rules</item>
+        <item>@font/caveat</item>
+        <item>@font/cinzel</item>
+        <item>@font/cookie</item>
+        <item>@font/gilda_display</item>
+        <item>@font/just_me_again_down_here</item>
+        <item>@font/lancelot</item>
+        <item>@font/new_rocker</item>
+        <item>@font/niconne</item>
+        <item>@font/orbitron</item>
+        <item>@font/oregano</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/rosarivo</item>
+    </array>
+</resources>

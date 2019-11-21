@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Estudio_Numerologico</string>
+    //activity_register_datos
+    <string name="tv_login">DATOS PERSONALES</string>
+    <string name="nombreTextRe">Nombre</string>
+    <string name="apellidoTextRe">Apellidos</string>
+    <string name="nacimientoTextRe">Nacimiento</string>
+    <string name="buttonPri">VAMOS</string>
+    <string name="infoPersonal">Acerca de</string>
+
+    //activity_main3
+    <string name="estudianteUni">Estudiante de la Universidad Nacional de San Agustín</string>
+
+    //activity_opciones
+    <string name="urgenciaText">Urgencia</string>
+    <string name="tonicaText">Tónica</string>
+    <string name="sucesoText">Suceso</string>
+    <string name="signuText">Numérico</string>
+    <string name="cabalaText">Cábala</string>
+    <string name="tonicaDiaText">Tónica Día</string>
+
+    //opciones
+    <string name="urgenciaTi">URGENCIA INTERIOR</string>
+    <string name="tonicaTi">TÓNICA FUNDAMENTAL</string>
+    <string name="sucesoTi">ACONTECIMIENTO DEL DÍA</string>
+    <string name="signuTi">SIGNIFICADO / NÚMEROS</string>
+    <string name="cabalaTi">CÁBALA DEL AÑO</string>
+    <string name="tonicaDiaTi">TÓNICA DEL DÍA</string>
+
+    //Urgencia
+    <string name="urgencia1">Este número hace a la persona emprendedora, original, con voluntad.</string>
+    <string name="urgencia2">Este número hace a la persona sociable, con imaginación.</string>
+    <string name="urgencia3">Este número hace a la persona creativa, con arte y belleza.</string>
+    <string name="urgencia4">Este número hace a la persona firme, sólida.</string>
+    <string name="urgencia5">Este número hace a la persona razonativa, con rigor, propensa al aprendizaje.</string>
+    <string name="urgencia6">Este número hace a la persona cariñosa, indecisa.</string>
+    <string name="urgencia7">Este número hace a la persona tendiente a luchar.</string>
+    <string name="urgencia8">Este número hace a la persona paciente.</string>
+    <string name="urgencia9">Este número hace a la persona generosa, con ideas geniales, independiente.</string>
+
+    //Tónica
+    <string name="tonica1">Este número indica que la persona tiene que trabajar con mucha voluntad, con ideas originales, ser emprendedor.</string>
+    <string name="tonica2">Este número indica que la persona tiene que aprender a asociarse con los demás, escuchar opiniones contrarias sin enojarse, desarrollar la imaginación creadora.</string>
+    <string name="tonica3">Este número indica que la persona tiene que trabajar con arte y belleza en todo lo que haga, en el vestir, en el hablar.</string>
+    <string name="tonica4">Este número indica que la persona tiene que poner las bases firmes en sus proyectos y trabajos.</string>
+    <string name="tonica5">Este número indica que la persona tiene que ver el pro y el contra de todo lo que se proponga.</string>
+    <string name="tonica6">Este número indica que la persona tiene que ser decisivo y poner cariño a lo que haga.</string>
+    <string name="tonica7">Este número indica que la persona tiene que poner mucho empeño en todo lo que haga.</string>
+    <string name="tonica8">Este número indica que la persona tiene que ser muy paciente, saber esperar.</string>
+    <string name="tonica9">Este número indica que la persona tiene que ser generosa y genial, de preferencia trabajar independientemente.</string>
+
+    //Suceso
+    <string name="suceso1">El uno demuestra que el día de tu nacimiento fuiste la prioridad de tus seres queridos</string>
+    <string name="suceso2">El dos demuestra que el día de tu nacimiento acontecio un suceso que cambio la vida de dos personas</string>
+    <string name="suceso3">El tres demuestra que el día de tu nacimiento se realizo la renovación existencial de 3 personas, la tuya por nacer y la de tus padres por su conversión</string>
+    <string name="suceso4">El cuatro demuestra que el día de tu nacimiento se observo un cambio radical ya que es posible que seas el 4to miembro de tu familia</string>
+    <string name="suceso5">El cinco demuestra que el día de tu nacimiento no lloraste hasta la 5ta palmada, estabas tan seguro de tu existencia que sabías que llorar era innecesario</string>
+    <string name="suceso6">El seis demuestra que el día de tu nacimiento no fue hasta 6 minutos después de nacer que los doctores sabían que estabas sano, es un record, la mayoría toma horas</string>
+    <string name="suceso7">El siete demuestra que el día de tu nacimiento que tu madre perdono a todos los que le habían hecho daño, sabiendo que ahora es invencible</string>
+    <string name="suceso8">El ocho demuestra que el día de tu nacimiento nacio alguien terco pero fuerte y valiente, conmoviste a todos los que te rodearon</string>
+    <string name="suceso9">El nueve demuestra que el día de tu nacimiento nacio alguien paciente, que sabrá comprender a los demás cueste lo que cueste</string>
+
+    //Numérico
+    <string name="numerico1">Signo de la creatividad, independencia, originalidad, sentido del yo y autosuficiencia. Naturaleza individualista y agresiva. Iniciadores de acciones, espíritu pionero, coraje, extraordinaria voluntad y determinación.</string>
+    <string name="numerico2">Signo de la empatía, cooperación, adaptabilidad, consideración hacia los demás, supersensibilidad hacia las necesidades de los demás. Símbolo del equilibrio, la unión y la receptividad.</string>
+    <string name="numerico3">Auto-expresivo en muchas vertientes y con capacidad comunicativa; Es el signo de la expresión artística, sociabilidad, simpatía, superficialidad y espíritu derrochador. Símbolo de la comunicación, la interacción y la neutralidad.</string>
+    <string name="numerico4">Fuerte sentido del orden y los valores. Es el signo de lo práctico, la lealtad, la rigidez y la represión. También es símbolo de la creación, de la lucha contra los límites, de la mentalidad científica, la atención al detalle, capaz de alcanzar logros importantes y con ingenio para la organización. Finas habilidades administrativas.</string>
+    <string name="numerico5">Signo de la acción y la inquietud. Es el símbolo de la libertad, la adaptabilidad, el espíritu viajero y aventurero, pero también de la inconsistencia y del abuso de los sentidos.</string>
+    <string name="numerico6">Signo del amor, la responsabilidad, la comprensión, pero también de personas entrometidas y celosas. Es un número asociado a la honestidad y fidelidad.</string>
+    <string name="numerico7">Signo del pensamiento, la espiritualidad, la conciencia, el análisis psíquico, la sabiduría"\n"El número del intelecto, el idealismo y la represión.</string>
+    <string name="numerico8">Signo del poder, la habilidad ejecutiva, la gestión, poder material y una tendencia al sacrificio pero también a no tener escrúpulos. Habilidades políticas, experto en manejar el poder y la autoridad, trabajan por causas y por alcanzar el reconocimiento, capacidad de decisión y mando.</string>
+    <string name="numerico9">Signo del genio artístico, sentido humanitario, tendencia al romance y a lo emotivamente sentimental. Animadamente amistosos y simpáticos, desinteresados, interesados en hacer de buena gana y bien su trabajo. Talento artístico y para la escritura.</string>
+
+    //Cábala
+    <string name="cabala1">"\t"ARCANO 1: EL MAGO"\n"EL HOMBRE: «Espada. Voluntad. Poder»."\n"Axioma Trascendental"\n"Sé en tus obras como eres en tus pensamientos"\n"</string>
+    <string name="cabala2">"\t"ARCANO 2: LA SACERDOTISA"\n"Axioma Trascendental"\n"El viento y las olas van siempre en favor de quien sabe navegar"\n"</string>
+    <string name="cabala3">"\t"ARCANO 3: LA EMPERATRIZ"\n"Axioma Trascendental"\n"Tejiendo está tu telar, tela para tu uso y telas que no has de usar"\n"Mirando el aspecto práctico de la vida encontramos que el Número 3 es la producción tanto Material como Espiritual"\n"</string>
+    <string name="cabala4">"\t"ARCANO 4: EL EMPERADOR"\n"Axioma Trascendental"\n"Mando. Progreso. Éxito. Misericordia"\n"El Número 4 es la Tetrada, el planeta que le corresponde es Urano, y es claro que la Constelación de Cancer pues es la cuarta constelación. En lo que se refiere a color el Rojo Oscuro y el Platino es el metal"\n"</string>
+    <string name="cabala5">"\t"ARCANO 5: EL JERARCA"\n"Axioma trascendental"\n"De oídas te había oído, más ahora mis ojos te ven y mi corazón te siente"\n"La vida ha empezado a fluir de fuera hacia dentro, estamos ante el dilema del Ser o no Ser, necesitamos definirnos o Ángeles o Demonios, o Águilas o Reptiles, enfrentarnos ante nuestro propio destino"\n"</string>
+    <string name="cabala6">"\t"ARCANO 6: LA INDECISIÓN: EL ENAMORADO"\n"Axioma Trascendental"\n"Trabajos me das Señor, más con ellos fortaleza"\n"En el Arcano No. 6 está la lucha entre los Dos Ternarios, es la Afirmación del Cristo Interno y la Suprema Negación del Satán"\n"</string>
+    <string name="cabala7">"\t"ARCANO 7: EL TRIUNFO"\n"Axioma Trascendente"\n"Cuando la ciencia entrare en tu corazón y la sabiduría fuese dulce a tu alma, pide y te será dado"\n"</string>
+    <string name="cabala8">"\t"ARCANO 8: LA JUSTICIA"\n"El Arcano No. 8: significa Duras Pruebas, es la Rectitud, la Justicia, el Equilibrio. Hay que buscar el bien cueste lo que cueste, pues los Maestros de Medicina cuando se trata de algún enfermo que esté muriendo, ellos intentan salvarlo porque esa es la Ley, ellos cumplen con hacer el bien"\n"</string>
+    <string name="cabala9">"\t"ARCANO 9: EL EREMITA"\n"ELEMENTO DE PREDICCIÓN"\n"Promete ciencia para hacer descubrimientos, orden al realizarlos y cautela para servirse de ellos. Asociaciones propicias y asociaciones infautas"\n"Pertenece al Número 9 la Emoción, la Sabiduría, la Generosidad, la Genialidad"\n"</string>
+
+    //Tónica Día
+    <string name="tonica_dia1">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: trabajar con mucha voluntad, con ideas originales, ser emprendedor.</string>
+    <string name="tonica_dia2">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: aprender a asociarse con los demás, escuchar opiniones contrarias sin enojarse, desarrollar la imaginación creadora.</string>
+    <string name="tonica_dia3">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: trabajar con arte y belleza en todo lo que haga, en el vestir, en el hablar.</string>
+    <string name="tonica_dia4">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: poner las bases firmes en sus proyectos y trabajos.</string>
+    <string name="tonica_dia5">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: ver el pro y el contra de todo lo que se proponga.</string>
+    <string name="tonica_dia6">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: ser decisivo y poner cariño a lo que haga.</string>
+    <string name="tonica_dia7">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: poner mucho empeño en todo lo que haga.</string>
+    <string name="tonica_dia8">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: ser muy paciente, saber esperar.</string>
+    <string name="tonica_dia9">Lo que indica que para tener más probabilidades de éxito en lo que uno se proponga, la persona en este día, habría que: ser generosa y genial, de preferencia trabajar independientemente.</string>
+
+</resources>
