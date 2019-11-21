@@ -1,5 +1,6 @@
 GNU General Public License v3.0
 
+>> The whole idea is that we can mash-up each other's work by giving original credits.
 
 @Android Vr_1.0
 @datetime 2019-11-20 
