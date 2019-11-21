@@ -11,6 +11,7 @@ GNU General Public License v3.0
 - Unknown 2
 
 @description
-Mobile application developed for the Android Operating System to find out the spiritual meaning of numbers
+Mobile application developed for the android operating system on the android studio platform to find out the spiritual meaning of numbers. Know More About Yourself. 
 
+@source_of_information https://www.samaelgnosis.net/cabala/estudio.php
 @copyright 2019, Gerardo Portocarrero Banda. All Rights Reserved.
