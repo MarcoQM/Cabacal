@@ -8,8 +8,11 @@ GNU General Public License v3.0
 @author_and_project_manager Gerardo Portocarrero Banda
 
 @contributors
-- Unknown 1
-- Unknown 2
+- On GitHub: CesarSamanez
+
+- On GitHub: fernandini271
+
+- On GitHub: Bguillenn
 
 @description
 Mobile application developed for the android operating system on the android studio platform to find out the spiritual meaning of numbers. Know More About Yourself. 
