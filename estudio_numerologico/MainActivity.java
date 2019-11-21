@@ -31,3 +31,4 @@ public class MainActivity extends AppCompatActivity {
         },SPLASH_TIME_OUT);
     }
 }
+// Copyright © 2019 Project Manager - Gerardo Portocarrero Banda 
