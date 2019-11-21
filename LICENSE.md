@@ -5,6 +5,7 @@ GNU General Public License v3.0
 @datetime 2019-11-20 19:35:30 a.m.
 @contact gportocarrerob@unsa.edu.pe
 @author_and_project_manager Gerardo Portocarrero Banda
+
 @contributors
 - Unknown 1
 - Unknown 2
