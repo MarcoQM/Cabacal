@@ -1,4 +1,6 @@
 GNU General Public License v3.0
+
+
 @Android Vr_1.0
 @datetime 2019-11-20 19:35:30 a.m.
 @contact gportocarrerob@unsa.edu.pe
