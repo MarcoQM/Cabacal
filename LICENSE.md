@@ -1,6 +1,6 @@
 @Android Vr_1.0
 @datetime 2019-11-20 19:35:30 a.m.
-@author Gerardo Portocarrero Banda
+@author_and_project manager Gerardo Portocarrero Banda
 @contact gportocarrerob@unsa.edu.pe
  
 @description
